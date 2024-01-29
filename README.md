@@ -1,7 +1,6 @@
 # Fork from glitchedgitz/codemirror-lang-http
 
 # Http Request/Response Lezer Parser for Codemirror v6
-<img src="image.png">
 
 > *Initially created for [GRROXY](https://github.com/glitchedgitz/grroxy)*
 
@@ -14,7 +13,7 @@
 ### Install
 
 ```
-npm i codemirror-lang-http
+npm i codemirror-lang-http-bak
 ```
 
 ### Usage
