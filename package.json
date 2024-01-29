@@ -1,12 +1,9 @@
 {
-  "name": "codemirror-lang-http",
+  "name": "codemirror-lang-http-bak",
   "version": "0.1.0",
   "license": "MIT",
   "description": "Http Request/Response lang for codemirror v6 lezer",
   "author": "Gitesh Sharma <glitchedgitz@gmail.com> (https://twitter.com/glitchedgitz)",
-  "scripts": {
-    "prepare": "rollup -c"
-  },
   "type": "module",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
